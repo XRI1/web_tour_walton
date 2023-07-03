@@ -1,0 +1,27 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+panorama_0DC03A1A_0469_C1D9_4187_2F7F84AAE918.label = 8
+panorama_0DC05EE7_0469_BE77_4178_601F5A7C9C62.label = 6
+panorama_0DC0634B_0469_47B8_4180_C6294C2F5736.label = 4
+panorama_0DC08743_0469_CFA8_417D_CF627A700662.label = 13
+panorama_0DC09B88_0469_C6B8_4191_9813C388F00E.label = 11
+panorama_0DC0B97F_0469_4258_417A_B9E237978F86.label = 5
+panorama_0DC0BBF0_0469_4668_4182_D0ABC6B82094.label = 3
+panorama_0DC0C0A1_0469_C2E8_417F_2BB308D57CC1.label = 12
+panorama_0DC0D4D9_0469_C25B_4183_A502EF224365.label = 7
+panorama_0DC0D63F_0469_C1D8_4171_6B49C68BA75F.label = 10
+panorama_0DC0EFD0_0469_DEA8_4191_10136DF07E04.label = 9
+panorama_0DC5F62D_0469_41F8_4170_89D7CFEE061C.label = 2
+panorama_0F783028_0469_41F9_4151_BE112CEE12F4.label = 1
+video_187711EE_1733_C22A_4194_13F67BB967D7.label = Walton video
+video_192457A0_171D_CED6_41B5_2C5E58EB9E1C.label = y2mate.com - Walton Prelude N50 Pro Laptop Intel Walton Computer_1080p
